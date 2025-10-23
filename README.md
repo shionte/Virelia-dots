@@ -48,7 +48,7 @@ It adheres to the **XDG Base Directory Specification** and includes all essentia
 ## 🚀 Installation  
 
 ```bash
-git clone https://github.com/shio/Virelia-dots.git ~/Virelia-Dots
+git clone https://github.com/shionte/Virelia-dots.git ~/Virelia-Dots
 cd ~/Virelia-dots
 chmod +x install.sh
 ./install.sh
