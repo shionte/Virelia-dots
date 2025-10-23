@@ -53,7 +53,7 @@ git clone https://github.com/<yourname>/arch-hyprland-dots.git ~/arch-hyprland-d
 cd ~/arch-hyprland-dots
 chmod +x install.sh
 ./install.sh
-
+```
 The install.sh script will:
 
     🗂️ Backup your existing dotfiles to ~/dotfiles_backup_<date>
@@ -88,29 +88,7 @@ fastfetch neovim tmux btop
     Full modularity — each module is optional and isolated
 
     Developer-oriented — optimized for productivity, not eye candy
-
-🧠 Credits
-
-    end-4
-
-— Hyprland base inspiration
-
-Caelestia
-
-— theme and visual concepts
-
-Hyprland
-
-— core compositor
-
-Arch Linux
-
-    — the base for it all
-
-📷 Preview
-
-(Add your screenshots or showcase here once uploaded.)
-
+    
 Example layout: Hyprland + Waybar + Wofi + Kitty with JetBrains Mono Nerd Font and dark minimal theme.
 📄 License
 
