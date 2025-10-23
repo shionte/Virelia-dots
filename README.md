@@ -48,8 +48,8 @@ It adheres to the **XDG Base Directory Specification** and includes all essentia
 ## 🚀 Installation  
 
 ```bash
-git clone https://github.com/<yourname>/arch-hyprland-dots.git ~/arch-hyprland-dots
-cd ~/arch-hyprland-dots
+git clone https://github.com/shio/Virelia-dots.git ~/Virelia-Dots
+cd ~/Virelia-dots
 chmod +x install.sh
 ./install.sh
 ```
