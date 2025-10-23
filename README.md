@@ -1,6 +1,5 @@
-# 🌌 Arch Linux — Hyprland Dotfiles Combo  
-
-A unified, optimized configuration suite built from a fusion of **my personal setup**, **end-4’s dotfiles**, and **Caelestia**.  
+# 🌌 Arch Linux — Virelia Dots
+ 
 Every component has been standardized, restructured, and interconnected for a clean, elegant, and fully functional Hyprland experience.
 
 ---
